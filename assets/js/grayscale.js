@@ -39,7 +39,7 @@
         scrollToTarget('#about');
       });
     }
-      
+
     // Event listener for nav-item 1
     var navItem1 = document.querySelector('#navItem1');
     if (navItem1) {
